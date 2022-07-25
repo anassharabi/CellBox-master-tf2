@@ -1,0 +1,26 @@
+TensorFlow 2.0 Upgrade Script
+-----------------------------
+Converted 1 files
+Detected 0 issues that require attention
+--------------------------------------------------------------------------------
+================================================================================
+Detailed log follows:
+
+================================================================================
+--------------------------------------------------------------------------------
+Processing file 'model.py'
+ outputting to 'TF2_model.py'
+--------------------------------------------------------------------------------
+
+94:28: INFO: Added keywords to args of function 'tf.transpose'
+95:30: INFO: Added keywords to args of function 'tf.transpose'
+96:27: INFO: Added keywords to args of function 'tf.transpose'
+111:19: INFO: Added keywords to args of function 'tf.transpose'
+116:19: INFO: Added keywords to args of function 'tf.nn.moments'
+117:15: INFO: Added keywords to args of function 'tf.transpose'
+247:24: INFO: Added keywords to args of function 'tf.reduce_mean'
+256:24: INFO: Added keywords to args of function 'tf.reduce_mean'
+257:33: INFO: Added keywords to args of function 'tf.reduce_mean'
+258:62: INFO: Added keywords to args of function 'tf.reduce_mean'
+--------------------------------------------------------------------------------
+
