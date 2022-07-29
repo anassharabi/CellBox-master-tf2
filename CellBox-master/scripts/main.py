@@ -1,7 +1,7 @@
 """
 This is the main script which contains interactive model construction and training/testing
 """
-#import cellbox
+import cellbox
 import os
 import numpy as np
 import pandas as pd
